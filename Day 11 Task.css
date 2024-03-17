@@ -1,0 +1,17 @@
+table,
+th,
+td {
+  color: blue;
+  height: 380px;
+  background-color: red;
+}
+h1 {
+  color: yellowgreen;
+  background-color: orangered;
+  height: 200px;
+}
+p {
+  color: violet;
+  background-color: aqua;
+  height: 100px;
+}
